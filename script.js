@@ -17,6 +17,7 @@ class Room {
 }
 
 const room1 = new Room("Sun", 30, 20);
+room1.isavailable = false;
 
 const room2 = new Room("Green", 15, 20, 18);
 
